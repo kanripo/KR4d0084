@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.539019
+#+DATE: 2020-03-31 11:34:09.531935
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 46
 <pb:KR4d0084_WYG_046-1a>¶
 　　欽定四庫全書¶
@@ -222,7 +222,7 @@
 <pb:KR4d0084_WYG_046-9a>¶
 　　承天寶禪師贊¶
 ¶
-　　靈山㑹上得箇消息達安城中不落裷&KR1563;黄撫路口雪¶
+　　靈山㑹上得箇消息達安城中不落裷䙡黄撫路口雪¶
 裏開花九江渡頭無風起浪¶
 ¶
 　　郭功父得楊次公家金書細字經求予作贊¶

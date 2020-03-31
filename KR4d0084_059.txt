@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.661960
+#+DATE: 2020-03-31 11:34:09.670742
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 59
 <pb:KR4d0084_WYG_059-1a>¶
 　　欽定四庫全書¶
@@ -253,7 +253,7 @@
 減人光彩王子敬所謂都不復得小失和亦不復得妄¶
 近生冷體氣頓至此令人絶歎者也舍弟知命將其雛¶
 往視涪尉未還不肖既不復出門飢飽寢處頗得自遂¶
-無縁瞻奉臨書増懷謹奉&KR0250;¶
+無縁瞻奉臨書増懷謹奉狀¶
 ¶
 　　某棄捐漂沒早衰多病杜門不與人事之日乆矣不能¶
 承動静缺然累月引領旌斾何日不勤鄭殿直來䝉賜¶

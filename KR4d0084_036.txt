@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.392897
+#+DATE: 2020-03-31 11:34:09.371595
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 36
 <pb:KR4d0084_WYG_036-1a>¶
 　　欽定四庫全書¶
@@ -67,7 +67,7 @@
 ¶
 　　池口風雨留三日¶
 ¶
-　　孤城三日風吹雨小市人家只菜&KR0188;水逺山長雙屬玉¶
+　　孤城三日風吹雨小市人家只菜𬞞水逺山長雙屬玉¶
 身閒心苦一舂鋤翁從旁舎來牧網我適臨淵不羨魚¶
 俛仰之間已陳迹暮窗歸了讀殘書¶
 ¶

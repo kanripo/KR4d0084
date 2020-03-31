@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.938999
+#+DATE: 2020-03-31 11:34:09.979306
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 96
 <pb:KR4d0084_WYG_096-1a>¶
 　　欽定四庫全書¶
@@ -65,7 +65,7 @@
 ¶
 　　四休居士詩三首¶
 ¶
-　　十二月十九日夜中發鄂渚曉泊漢陽親舊𢹂酒追¶
+　　十二月十九日夜中發鄂渚曉泊漢陽親舊攜酒追¶
 <pb:KR4d0084_WYG_096-3a>¶
 送聊為短句¶
 ¶

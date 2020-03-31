@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.830183
+#+DATE: 2020-03-31 11:34:09.851414
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 79
 <pb:KR4d0084_WYG_079-1a>¶
 　　欽定四庫全書¶
@@ -177,7 +177,7 @@
 遂留㝛是日大風自採菊苖薦湯餅二首¶
 ¶
 　　按别本湯餅下有紅藥盛開四字且有三首其¶
-三云春風一曲花十八𢬵得百醉玉東西露葉¶
+三云春風一曲花十八拚得百醉玉東西露葉¶
 壓枝見紅藥猶似舞餘和汗啼¶
 ¶
 　　題高君正適軒　巳上十三篇並元載外集¶

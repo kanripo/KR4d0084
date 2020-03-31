@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.155387
+#+DATE: 2020-03-31 11:34:09.093892
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 11
 <pb:KR4d0084_WYG_011-1a>¶
 　　欽定四庫全書¶
@@ -316,7 +316,7 @@
 　　怒目横行與虎爭寒沙奔火禍胎成雖為天上三辰次¶
 未免人間五鼎烹¶
 ¶
-　　勃&KR0805;媻跚烝涉波草泥出没尚横戈也知觳觫元無罪¶
+　　勃窣媻跚烝涉波草泥出没尚横戈也知觳觫元無罪¶
 柰此尊前風味何¶
 ¶
 　　解縳華堂一座傾忍堪支解見薑橙東歸却為鱸魚膾¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.322098
+#+DATE: 2020-03-31 11:34:09.289712
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 29
 <pb:KR4d0084_WYG_029-1a>¶
 　　欽定四庫全書¶
@@ -232,7 +232,7 @@
 　　書自作草後¶
 ¶
 　　舊為陳誠老作此書不知乃歸楊廣道巳數年余謫黔¶
-南道出尉氏廣道持以相訪茫然似不出余手&KR0394;志所¶
+南道出尉氏廣道持以相訪茫然似不出余手𣑽志所¶
 <pb:KR4d0084_WYG_029-11a>¶
 謂吾猶昔人作昔人者邪紹聖甲戌在黄龍山中忽得¶
 草書三昧覺前所作太露芒角若得明忩浄几筆墨調¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.163382
+#+DATE: 2020-03-31 11:34:09.103641
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 12
 <pb:KR4d0084_WYG_012-1a>¶
 　　欽定四庫全書¶
@@ -66,7 +66,7 @@
 　　迎燕温風旎旎潤花小雨斑斑一炷煙中得意九衢塵¶
 裏偷閒¶
 ¶
-　　有聞帳中香以爲𤎅蝎者戲用前韻二首¶
+　　有聞帳中香以爲熬蝎者戲用前韻二首¶
 ¶
 　　海上有人逐臭天生鼻孔司南但印香嚴本寂不必叢¶
 林徧參¶

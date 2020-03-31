@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.567237
+#+DATE: 2020-03-31 11:34:09.564784
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 49
 <pb:KR4d0084_WYG_049-1a>¶
 　　欽定四庫全書¶
@@ -458,7 +458,7 @@
 ¶
 　　葛藟之纍樛木亦得升高泉水之入淇門冀䝉餘潤比¶
 因僚友僭及婚姻既承諾之話言許以嗣為兄弟敢差¶
-榖旦少助衣&KR0237;酌彼行潦誠可薦於王公藉之用茅物¶
+榖旦少助衣𥜗酌彼行潦誠可薦於王公藉之用茅物¶
 <pb:KR4d0084_WYG_049-22a>¶
 或宜於曲禮¶
 ¶

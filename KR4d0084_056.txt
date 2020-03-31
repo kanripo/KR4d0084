@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.633293
+#+DATE: 2020-03-31 11:34:09.638777
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 56
 <pb:KR4d0084_WYG_056-1a>¶
 　　欽定四庫全書¶
@@ -472,7 +472,7 @@
 知為巳之學先行其言而後從之者也他日聲名烜赫¶
 而所為不録録然後余言可信矣¶
 ¶
-　　䟦心禪師與承天監院守&KR0606;手誨¶
+　　䟦心禪師與承天監院守瓌手誨¶
 ¶
 　　黄龍堂頭心禪師法中龍象末世人天正眼也其蒲團¶
 禪板軍持應器尚可霑其福恵荘嚴之澤况其未滅度¶

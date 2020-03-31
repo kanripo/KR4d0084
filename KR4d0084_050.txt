@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.577577
+#+DATE: 2020-03-31 11:34:09.576266
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 50
 <pb:KR4d0084_WYG_050-1a>¶
 　　欽定四庫全書¶
@@ -235,7 +235,7 @@
 ¶
 　　金液珠說¶
 ¶
-　　開封祝天貺屈蜀紙𣂏流金液作珠逡巡而成丹服之¶
+　　開封祝天貺屈蜀紙㪺流金液作珠逡巡而成丹服之¶
 而痼疾起蓋此石性能温中而實下推陳而致新陽物¶
 ¶
 　　也而濟(闕)　　　　　　　　　　明者下而成珠其¶

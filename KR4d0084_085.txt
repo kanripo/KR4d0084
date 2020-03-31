@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.860707
+#+DATE: 2020-03-31 11:34:09.884153
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 85
 <pb:KR4d0084_WYG_085-1a>¶
 　　欽定四庫全書¶
@@ -61,7 +61,7 @@
 　　謝公擇舅分賜茶三首¶
 ¶
 <pb:KR4d0084_WYG_085-3a>¶
-　　詩中有國老元年宻賜來及𢬵洗一春湯餅睡¶
+　　詩中有國老元年宻賜來及拚洗一春湯餅睡¶
 亦知清夜有蛟龍之句是春末所作¶
 ¶
 　　以潞公所惠揀芽送公擇次舊韻¶

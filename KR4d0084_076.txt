@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.813829
+#+DATE: 2020-03-31 11:34:09.833635
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 76
 <pb:KR4d0084_WYG_076-1a>¶
 　　欽定四庫全書¶
@@ -57,7 +57,7 @@
 　　贈趙言¶
 ¶
 <pb:KR4d0084_WYG_076-2b>¶
-　　詩中有北門塵土滿衣&KR0109;及廣文直舍官槐陰¶
+　　詩中有北門塵土滿衣襟及廣文直舍官槐陰¶
 之句¶
 ¶
 　　雜詩四首¶

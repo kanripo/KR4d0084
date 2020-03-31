@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.086254
+#+DATE: 2020-03-31 11:34:09.007966
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4d0084_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -279,7 +279,7 @@
 　　龜以靈故焦雉以文故翳本心如日月利欲食之既後¶
 生玩華藻照影終没世安得八紘罝以道獵衆智¶
 ¶
-　　談經用燕説束棄諸儒傳濫觴雖有罪末&KR0637;瀰九縣張¶
+　　談經用燕説束棄諸儒傳濫觴雖有罪末派瀰九縣張¶
 <pb:KR4d0084_WYG_002-12b>¶
 侯真理窟堅壁勿與戰難以口舌爭水清石自見¶
 ¶

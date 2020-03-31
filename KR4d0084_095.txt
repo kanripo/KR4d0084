@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山谷集
-#+DATE: 2020-03-31 11:34:08.929586
+#+DATE: 2020-03-31 11:34:09.963111
 #+PROPERTY: ID KR4d0084
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 95
 <pb:KR4d0084_WYG_095-1a>¶
 　　欽定四庫全書¶
@@ -126,7 +126,7 @@
 已乃知之侍郎為治歸&KR0724;甚飭備過於久所事¶
 觀此則冷齊夜話所稱徐師川言予於東坡山¶
 谷瑩中三君子俱知敬畏指其疵瑕予能笑之¶
-謂東坡欲學長生&KR0631;中對日者談命山谷赴官¶
+謂東坡欲學長生瑩中對日者談命山谷赴官¶
 姑孰聞罷而俯就其説之妄益可見矣¶
 ¶
 　　七月甲午復繫舟逹觀臺下¶
